@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hello World!
+### My name is Arthur Cesar de Freitas
+### I am 17 years old
+### Systems development student
+# Some skills
 
-<!--
-**Arthur6002/Arthur6002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: flex;" class="skills">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xamarin/xamarin-original.svg" Height="70px"/>    
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" Height="70px"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" Height="70px"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" Height="70px"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" Height="70px"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" Height="70px"/>
+          
+                  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" Height="70px"/>    
+</div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurFreitasDev&show_icons=true&theme=dracula)
